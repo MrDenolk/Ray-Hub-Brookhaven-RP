@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://scriptsneonauth.vercel.app/api/scripts/7cfbe5e3-d73b-44fd-b771-085ff40fb499/raw"))()
+loadstring(game:HttpGet("https://scriptsneonauth.vercel.app/api/scripts/1b7fc559-df67-49b2-b82d-34da8349b654/raw"))()
